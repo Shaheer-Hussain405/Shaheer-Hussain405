@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hey, I’m Shaheer Hussain
 
-<!--
-**Shaheer-Hussain405/Shaheer-Hussain405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **full-stack web developer** who enjoys building things that actually work and look good.  
+I work on both the frontend and backend, turning ideas into real web apps.
 
-Here are some ideas to get you started:
+🛠 I mostly work with:
+- JavaScript, React, Node.js, Express.js
+- HTML, CSS, Tailwind  
+- Databases & APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always learning, improving my skills, with non-Stopable Power.
+
+📫 Let’s connect or check out my work below 👇
